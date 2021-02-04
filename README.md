@@ -4,9 +4,10 @@ A fucking boilerplate with just:
 
 1. fucking Parcel
 2. fucking TypeScript 4
-3. fucking eslint
+3. fucking Scss
+4. fucking eslint
 
-No fucking React or fucking Vue or fucking Angular or fucking Svelte or some fucking framework, just fucking scss.
+No fucking React or fucking Vue or fucking Angular or fucking Svelte or some fucking francy framework.
 
 No fucking unit tests, no fucking e2e tests, just two fucking scripts:
 
