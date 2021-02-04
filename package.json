@@ -4,7 +4,7 @@
   "description": "Boilerplate with just TS and nothing else",
   "main": "index.js",
   "scripts": {
-    "start": "parcel src/index.html -p 9000",
+    "start": "parcel src/index.html --open",
     "build": "parcel build src/index.html --out-dir dist --public-url './'"
   },
   "repository": {
