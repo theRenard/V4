@@ -1,4 +1,4 @@
-# V-4
+# V4
 
 A fucking boilerplate with just:
 
@@ -6,7 +6,7 @@ A fucking boilerplate with just:
 2. fucking TypeScript 4
 3. fucking eslint
 
-No fucking React or fucking Vue or fucking Angular or fucking Svelte or some fucking framework, no fucking sass or less or whatever fucking css thing.
+No fucking React or fucking Vue or fucking Angular or fucking Svelte or some fucking framework, just fucking scss.
 
 No fucking unit tests, no fucking e2e tests, just two fucking scripts:
 

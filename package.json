@@ -1,11 +1,11 @@
 {
-  "name": "v-4",
+  "name": "v4",
   "version": "1.0.0",
   "description": "Boilerplate with just TS and nothing else",
   "main": "index.js",
   "scripts": {
     "start": "parcel src/index.html -p 9000",
-    "build": "parcel build src/index.html --out-dir dist --public-url './'"
+    "build": "parcel build src/index.html --out-dir docs --public-url './'"
   },
   "repository": {
     "type": "git",
@@ -25,10 +25,11 @@
     "parcel-bundler": "^1.12.4",
     "parcel-plugin-clean-easy": "^1.0.2",
     "parcel-plugin-static-files-copy": "^2.5.0",
+    "sass": "^1.32.6",
     "typescript": "^4.1.2"
   },
   "parcelCleanPaths": [
-    "dist"
+    "docs"
   ],
   "staticFiles": {
     "staticPath": "public",
